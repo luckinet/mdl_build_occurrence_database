@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Project specific directories
+_data
+_misc
+_pub
+_admin
