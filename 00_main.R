@@ -3,9 +3,9 @@
 # description : This is the main script for building a database of occurrence/in-situ data for all land-use dimensions of LUCKINet.
 # license     : https://creativecommons.org/licenses/by-sa/4.0/
 # authors     : Peter Pothmann, Steffen Ehrmann, Caterina Barasso
-# date        : 2024-03-27
+# date        : 2024-09-26
 # version     : 0.7.0
-# status      : working (luts)
+# status      : working
 # comment     : file.edit(paste0(dir_docs, "/documentation/mdl_build_occurrence_database.md"))
 # ----
 
