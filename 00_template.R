@@ -6,7 +6,7 @@
 # date        : 2024-MM-DD
 # version     : 0.0.0
 # status      : find data, update, inventarize, validate, normalize, done
-# comment     : file.edit(paste0(dir_docs, "/documentation/04_build_occurrence_database.md"))
+# comment     : file.edit(paste0(dir_docs, "/documentation/mdl_build_occurrence_database.md"))
 # ----
 # doi/url     : _INSERT
 # license     : _INSERT
